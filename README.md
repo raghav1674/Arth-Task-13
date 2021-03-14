@@ -17,7 +17,7 @@ Commands used:
 <img src="./ss/02-route-del.PNG" width=600 height=400>
 
 
-<img src="./ss/route-added.PNG" width=600 height=400>
+<img src="./ss/route-added.PNG" width=1500 height=400>
 
 <img src="./ss/done.PNG" width=600 height=400>
 
