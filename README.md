@@ -9,14 +9,17 @@ Commands used:
 
 ## Before deleting the default route:
 
-<img src="./ss/normal.PNG" >
+<img src="./ss/normal.PNG" width=600 height=400>
 
 
 ## AFTER DELETING DEFAULT ROUTE AND ADDED THE ROUTE FOR GOOGLE ONLY.
 
-<img src="./ss/02-route-del.PNG" >
+<img src="./ss/02-route-del.PNG" width=600 height=400>
 
-<img src="./ss/06-route-added.PNG" >
+
+<img src="./ss/route-added.PNG" width=600 height=400>
+
+<img src="./ss/done.PNG" width=600 height=400>
 
 
 
